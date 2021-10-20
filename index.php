@@ -6,8 +6,9 @@ include 'includes/topmenu.php';
 
 <section class="main" id="main">
     <div class="homebanner">
-        <h1 class="slogan">Don't Be Shy....</h1>
-        <h2 class="slogan2">Ask anyting you want.</h2>
+        <h1 class="slogan">Hi amazing GUY</h1>
+        <h2 class="slogan2">Ask the community WHY</h2>
+        <h3 class="slogan3">And please don't be SHY</h3>
         <a href="ask-question.php" class="ask btn main-btn">Have a Query?</a>
     </div>
 </section>
