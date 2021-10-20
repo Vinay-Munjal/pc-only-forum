@@ -22,6 +22,13 @@ $type = "button";
             </div>
         </div>
         <div class="col-md-8">
+            <div class="col-8">
+                <div class="form-group">
+                    <label class="control-label" for="title">Tags</label>
+                    <input type="text" class="tags-input" value="" data-role="tagsinput"></input>
+
+                </div>
+            </div>
             <button class="btn btn-block main-outline-btn">Review</button>
             <button class="btn btn-block main-btn disabled-btn" type="<?php echo $type; ?>">Post</button>
         </div>
