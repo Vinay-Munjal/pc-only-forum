@@ -331,3 +331,26 @@ i{
 .register,.login{
     min-height: 80vh;
 }
+.label-info {
+    background-color: #5bc0de;
+    border-radius: 5px;
+    padding:5px;
+}
+.bootstrap-tagsinput{
+    width: 100%;
+    margin: 5px 0 10px 0;
+    color: var(--primary-color);
+}
+input[type="text"] {
+    margin-top: 20px;
+    width: 151%;
+    height: 35px;
+    border: 1px solid silver;
+    border-radius: 0.25rem;
+}
+input[type="text"]:hover,input[type="text"]:focus {
+    outline: none !important;
+    font-family: 'Zilla Slab', serif;
+    box-shadow: var(--shadow);   
+    padding:5px 12px;
+}
