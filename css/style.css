@@ -63,6 +63,13 @@ a{
     margin-bottom:2.5rem;
     font-weight:bolder
 }
+.slogan3{
+    color: var(--primary-color);
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom:2.5rem;
+    font-weight:bolder
+}
 .ask{
     font-size:1.6rem !important;
     font-weight: bolder !important;
