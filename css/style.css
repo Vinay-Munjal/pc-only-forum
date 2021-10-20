@@ -215,6 +215,7 @@ a{
     color: var(--primary-color) !important;
     font-weight: bold !important;
     margin-top: 5px !important;
+    width:100% !important;
     font-family: 'Zilla Slab', serif; ;
 }
 .form-control:hover, .form-control:focus{

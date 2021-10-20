@@ -2,8 +2,8 @@
 
 $host = "localhost";
 $user = "root";
-$password = "";
-$db = "NEW";
+$password = "12345678";
+$db = "pc-only-forum";
 
 $conn = mysqli_connect($host,$user,$password,$db);
 if(!$conn){
